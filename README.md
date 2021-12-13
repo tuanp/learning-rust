@@ -4,6 +4,7 @@
 
  - [ ] Finish [the book](https://doc.rust-lang.org/book/) in my spare time.
  - [ ] Study [The Rust Standard Library](https://doc.rust-lang.org/std/index.html).
+ - [ ] [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/).
  - [ ] [Cargo book - A book on Rust’s package manager and build system](https://doc.rust-lang.org/cargo/index.html).
  - [ ] [Rustc book - Familiarize yourself with the knobs available in the Rust compiler](https://doc.rust-lang.org/rustc/index.html).
  - [ ] [Cargo book - A book on Rust’s package manager and build system](https://doc.rust-lang.org/cargo/index.html).
