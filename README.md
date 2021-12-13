@@ -12,7 +12,7 @@
 
 ### Hands on
 
- - [ ] the book guessing game
+ - [x] the book guessing game
  - [ ] the book minigrep
  - [ ] the book minimal server
  - [ ] Simple smart contract in NEAR blockchain
