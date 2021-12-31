@@ -13,7 +13,7 @@
 ### Hands on
 
  - [x] the book guessing game
- - [ ] the book minigrep
+ - [x] the book minigrep
  - [ ] the book minimal server
  - [ ] Simple smart contract in NEAR blockchain
  - [ ] Simple samrt contract in Solana blockchain
